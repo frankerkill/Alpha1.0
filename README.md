@@ -1,4 +1,4 @@
-# Alpha1.0
+# Alpha1.1
 Prototype GvG Game
 
-Eerste Versie GvG Game
+Enige echte GvG Game!
